@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "amount": 10,
+        "currency": "USD",
+        "created": "10.10.2018 21:12:21",
+        "owner": {
+            "name": "Remus Lupin",
+            "bdate": "10.10.1980"
+        }
+    },
+]
