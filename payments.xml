@@ -1,0 +1,453 @@
+<?xml version="1.0" ?>
+<payments>
+	<payment date="2018-08-20 19:36:32">
+		<name>Remus Lupin</name>
+		<amount>329.76</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 20:22:26">
+		<name>Severus Snape</name>
+		<amount>397.0</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 22:51:55">
+		<name>Lucius Malfoy</name>
+		<amount>847.44</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 19:33:58">
+		<name>Ron Weasley</name>
+		<amount>929.93</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 06:47:05">
+		<name>Sirius Black</name>
+		<amount>573.58</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 18:08:20">
+		<name>Harry Potter</name>
+		<amount>930.93</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 15:12:33">
+		<name>Rachel Green</name>
+		<amount>102.85</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 12:33:16">
+		<name>Rachel Green</name>
+		<amount>951.79</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 18:58:17">
+		<name>Ginny Weasley</name>
+		<amount>658.85</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 23:07:26">
+		<name>Chandler Bing</name>
+		<amount>254.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 13:32:20">
+		<name>Phoebe Buffay</name>
+		<amount>767.04</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 20:04:43">
+		<name>Ron Weasley</name>
+		<amount>299.8</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 09:57:46">
+		<name>Hermione Granger</name>
+		<amount>990.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 22:37:26">
+		<name>Rachel Green</name>
+		<amount>314.03</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 07:13:23">
+		<name>Ginny Weasley</name>
+		<amount>863.81</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 10:19:56">
+		<name>Remus Lupin</name>
+		<amount>276.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 08:22:20">
+		<name>Molly Weasley</name>
+		<amount>454.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 20:06:53">
+		<name>Ron Weasley</name>
+		<amount>996.85</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 22:52:09">
+		<name>Sirius Black</name>
+		<amount>991.37</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 11:37:56">
+		<name>Petunia Dursley</name>
+		<amount>214.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 10:46:19">
+		<name>Bellatrix Lestrange</name>
+		<amount>995.82</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 22:35:23">
+		<name>Phoebe Buffay</name>
+		<amount>474.21</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 09:13:29">
+		<name>Chandler Bing</name>
+		<amount>127.21</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 13:54:04">
+		<name>Phoebe Buffay</name>
+		<amount>147.27</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 09:58:02">
+		<name>Bellatrix Lestrange</name>
+		<amount>410.89</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 07:06:59">
+		<name>Rachel Green</name>
+		<amount>785.16</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 05:34:55">
+		<name>Rubeus Hagrid</name>
+		<amount>380.27</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 08:00:01">
+		<name>Phoebe Buffay</name>
+		<amount>595.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 23:16:22">
+		<name>Phoebe Buffay</name>
+		<amount>629.84</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 09:41:16">
+		<name>Ross Geller</name>
+		<amount>490.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 16:13:52">
+		<name>Vernon Dursley</name>
+		<amount>921.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 19:20:48">
+		<name>Narcissa Malfoy</name>
+		<amount>837.0</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 16:26:41">
+		<name>Remus Lupin</name>
+		<amount>940.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 11:00:09">
+		<name>Rubeus Hagrid</name>
+		<amount>227.32</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 19:50:29">
+		<name>Dolores Umbridge</name>
+		<amount>728.82</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 18:25:53">
+		<name>Vernon Dursley</name>
+		<amount>832.06</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 12:53:01">
+		<name>Monica Geller</name>
+		<amount>696.56</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 12:57:42">
+		<name>Bellatrix Lestrange</name>
+		<amount>729.88</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 07:35:13">
+		<name>Rubeus Hagrid</name>
+		<amount>340.31</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 22:41:56">
+		<name>Monica Geller</name>
+		<amount>809.54</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 21:15:39">
+		<name>Vernon Dursley</name>
+		<amount>454.53</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 19:22:07">
+		<name>Remus Lupin</name>
+		<amount>576.83</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 19:28:56">
+		<name>Harry Potter</name>
+		<amount>280.49</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 10:41:31">
+		<name>Harry Potter</name>
+		<amount>917.72</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 15:36:04">
+		<name>Rubeus Hagrid</name>
+		<amount>572.5</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 15:12:32">
+		<name>Harry Potter</name>
+		<amount>314.02</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 22:39:22">
+		<name>Narcissa Malfoy</name>
+		<amount>188.64</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 09:58:21">
+		<name>Phoebe Buffay</name>
+		<amount>294.11</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 15:33:58">
+		<name>Harry Potter</name>
+		<amount>206.81</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 06:42:03">
+		<name>Harry Potter</name>
+		<amount>611.35</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 17:47:27">
+		<name>Albus Dumbledore</name>
+		<amount>313.39</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 16:06:20">
+		<name>Hermione Granger</name>
+		<amount>533.0</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 08:26:41">
+		<name>Remus Lupin</name>
+		<amount>66.1</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 20:30:04">
+		<name>Ron Weasley</name>
+		<amount>668.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 06:06:26">
+		<name>Dolores Umbridge</name>
+		<amount>91.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 20:32:10">
+		<name>Phoebe Buffay</name>
+		<amount>163.27</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 08:25:23">
+		<name>Phoebe Buffay</name>
+		<amount>261.54</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 20:53:21">
+		<name>Molly Weasley</name>
+		<amount>219.56</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 21:37:29">
+		<name>Petunia Dursley</name>
+		<amount>245.93</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 22:49:33">
+		<name>Narcissa Malfoy</name>
+		<amount>199.0</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 14:20:34">
+		<name>Ginny Weasley</name>
+		<amount>409.49</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 20:21:26">
+		<name>Vernon Dursley</name>
+		<amount>515.2</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 13:31:25">
+		<name>Phoebe Buffay</name>
+		<amount>268.84</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 12:52:42">
+		<name>Ross Geller</name>
+		<amount>253.3</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 07:47:39">
+		<name>Hermione Granger</name>
+		<amount>338.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 09:08:20">
+		<name>Draco Malfoy</name>
+		<amount>701.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 05:57:23">
+		<name>Ginny Weasley</name>
+		<amount>548.81</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 14:51:10">
+		<name>Phoebe Buffay</name>
+		<amount>51.77</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 18:17:23">
+		<name>Petunia Dursley</name>
+		<amount>284.14</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 21:36:40">
+		<name>Sirius Black</name>
+		<amount>540.22</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 19:00:20">
+		<name>Petunia Dursley</name>
+		<amount>979.0</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 15:29:47">
+		<name>Phoebe Buffay</name>
+		<amount>375.83</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 22:54:22">
+		<name>Ross Geller</name>
+		<amount>344.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 11:17:26">
+		<name>Albus Dumbledore</name>
+		<amount>487.34</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 13:11:48">
+		<name>Dolores Umbridge</name>
+		<amount>827.45</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 16:37:11">
+		<name>Bellatrix Lestrange</name>
+		<amount>846.78</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 16:26:18">
+		<name>Sirius Black</name>
+		<amount>942.24</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 16:15:32">
+		<name>Albus Dumbledore</name>
+		<amount>263.62</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 18:30:21">
+		<name>Rubeus Hagrid</name>
+		<amount>410.99</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 15:58:43">
+		<name>Dolores Umbridge</name>
+		<amount>543.66</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 15:20:56">
+		<name>Vernon Dursley</name>
+		<amount>87.86</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 23:19:20">
+		<name>Hermione Granger</name>
+		<amount>558.17</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 17:37:25">
+		<name>Narcissa Malfoy</name>
+		<amount>313.87</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 14:02:35">
+		<name>Monica Geller</name>
+		<amount>914.42</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 19:34:10">
+		<name>Rachel Green</name>
+		<amount>815.77</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 16:21:56">
+		<name>Ross Geller</name>
+		<amount>944.6</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 07:11:56">
+		<name>Severus Snape</name>
+		<amount>263.0</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 15:31:36">
+		<name>Ginny Weasley</name>
+		<amount>854.27</amount>
+		<currency>EUR</currency>
+	</payment>
+	<payment date="2018-08-20 20:38:44">
+		<name>Peter Pettigrew</name>
+		<amount>743.04</amount>
+		<currency>USD</currency>
+	</payment>
+	<payment date="2018-08-20 19:01:18">
+		<name>Chandler Bing</name>
+		<amount>193.77</amount>
+		<currency>USD</currency>
+	</payment>
+</payments>
