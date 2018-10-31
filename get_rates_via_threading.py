@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import threading
+import time
 
 import requests
 import xmltodict
@@ -29,7 +30,7 @@ def get_rate_from_privat(result):
     json_resp = requests.get("https://api.privatbank.ua/p24api/pubinfo?exchange&json&coursid=11").json()
 
     result["rate"] = json_resp[0]["sale"]
-
+    time.sleep(10)
     print("get_rate_from_privat finished")
 
 
@@ -37,6 +38,7 @@ def get_rate_from_cbr(result):
     print("in get_rate_from_cbr")
     resp = requests.get("http://www.cbr.ru/scripts/XML_daily.asp").text
 
+    time.sleep(3)
     parsed = xmltodict.parse(resp)
 
     result["rate"] = parsed["ValCurs"]["Valute"][0]["Value"]

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Payments</title>
+</head>
+<body>
+    <ul>
+        {% for p in payments %}
+        <li>{{p.to_str()}}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -5,6 +5,13 @@ from models import XRate
 from utils import create_logger
 
 
+def get_rates_from_db():
+    # update_from_privat_api()
+    return [{"from_currency": rate.from_currency,
+             "to_currency": rate.to_currency,
+             "rate": rate.rate} for rate in XRate.select()]
+
+
 def update_from_privat_api():
     log = create_logger("MainLog", "main.log")
     log.info("Started update rate via privatbank api")
@@ -35,7 +42,7 @@ def update_from_privat_api():
 
 def get_rates_from_privat():
     response = requests.get("https://api.privatbank.ua/p24api/pubinfo?exchange&json&coursid=11", timeout=2)
-
+    response.status_code
     json_resp = response.json()
 
     return json_resp

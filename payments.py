@@ -1,6 +1,8 @@
 import datetime
 import itertools
 
+from api_rates import utils
+
 
 class Person:
     current_bdate = datetime.datetime(1970, 1, 1)
@@ -97,10 +99,14 @@ class Payment:
         return payment._currency
 
 
+log = utils.create_logger("Main", "main1.log")
+
 p1 = Payer.create_from_line("Remus Lupin;329.76 EUR;2018-08-20 19:36:32;out;")
 p2 = Person.create_from_line("Remus Lupin;329.76 EUR;2018-08-20 19:36:32;out;")
 p3 = Payer.create_from_line("Kate Lupin;329.76 EUR;2018-08-20 19:36:32;out;")
 
+
+log.info(f"{p1} payment")
 # setattr(p1, attr_name, attr_value)
 
 with open("2018-08-20.txt") as f:

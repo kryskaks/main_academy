@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>New Payment</title>
+</head>
+<body>
+    <form action="" method="post">
+
+        {% for input in inputs %}
+        <p>{{input.title()}} <input type="text" name="{{input}}" /> </p>
+        {% endfor %}
+        <p><input type="submit" value="Send" /> </p>
+    </form>
+</body>
+</html>
